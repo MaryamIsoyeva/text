@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea79f82-cb5d-40f1-9873-697f546a24c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/out/Bluck.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/out/DFS.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/out/gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/out/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/out/parcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/out/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/src/Bluck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/src/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Bluck/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Daemon/Daemon.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Daemon/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Daemon/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/out/Fibon.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/out/Fibon.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/out/Fibon.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/out/parcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/out/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/src/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Fibon/src/Fibon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/HostsServer/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/HostsServer/TCPHostsServer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/HostsServer/UDPHostsServer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/HostsServer/hosts.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon$AMExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon$ServSockThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon$SockThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon.bk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon.jbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon.jpx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon.jpx.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Daemon.oif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Linpack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Linpack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/LinpackLauncher$LL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/LinpackLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/StreamClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/StreamClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/UDPServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/Untitled1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/parcs.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Daemon/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/Fibon.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/Fibon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/Fibon.jpx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/Fibon.jpx.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/Fibon.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/package cache/unnamed package.dep2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Fibon/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/ExampleFileFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/ExampleFileFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/ExampleFileFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$AddButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$AppCloser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$CLoadButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$ExecButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$ListSelectListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$LoadButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$RemoveButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$SaveButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$TestButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager$UsePerfCBoxListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager.jpx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/GUIManager.jpx.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/MyFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/SetListModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/SetListModel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/SetListModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/jbcl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/package cache/unnamed package.dep2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/GUIManager/settings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/Benchmark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/Benchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer$TaskInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer$Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer.jpx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer.jpx.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/HostsServer.oif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/PointInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/TCPHostsServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/TCPHostsServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/TCPHostsServer.jbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/UDPHostsServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/UDPHostsServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/UDPReceiver$Query.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/UDPReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/UDPReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/UpdateHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/UpdateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/XHostInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/XHostInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/hosts.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/hosts.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/HostsServer/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/1.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/2.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/GenerateMatr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/GenerateMatr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrix.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixes/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixes/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixes/MultThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixes/MultThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/Matrixs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/generateMatr.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/jar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes.bak/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/GenerateMatr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/GenerateMatr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixes/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixes/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixes/MultThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixes/MultThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixs.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/Matrixs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/generateMatr.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/jar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Matrixes/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/ParcsNet.bpgr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/ParcsNet.bpgr.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/ParcsNet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/ParcsNet.jpx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/ParcsNet.jpx.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/ParcsNet.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Generated Source/ParcsLauncherObj_Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Matrix.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Matrix1.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Matrix2.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Matrixes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Matrixes.jar2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/ParcsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/ParcsLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/ParcsLauncherInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/ParcsLauncherObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/RMI.jpx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/RMI.jpx.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/RMI.oif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Series.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/Series.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/client.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/hosts.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/package cache/unnamed package.dep2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/runClient.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/RMI/runServer.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/GenerateBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/Matrixes/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/Matrixes/MultThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/Ser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/Series.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/Series.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/SeriesS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/createser.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/e.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/generateBD.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/jar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/package cache/Matrixes.dep2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/package cache/unnamed package.dep2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/S2/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Arctg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Arctg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Cos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Cos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Exp.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Exp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Exp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Series.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/SeriesS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/SeriesS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Sin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/Sin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/file.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/file.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/jar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/Series2/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/AM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/AM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/AMInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/AMInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Const.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/EventTrace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/EventTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Exec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Executor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/HostInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/HostInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/HostInfo.jbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/IRecovery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/IRecovery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/JarClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/JarClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/PerformFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/PerformFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/PointData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Recover$AMRecover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Recover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/Recover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/RecoveryFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/RecoveryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/SafeRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/SafeRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/ServerQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/ServerQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/TieRecoveries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/TieRecoveries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/UDPQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/UDPQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/channel$ExtObjectInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/channel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/parcs.jpx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/parcs.jpx.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/parcs.oif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/Parcs/parcs/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/nnparcs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/nnparcs/src/DataToTransf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/nnparcs/src/MAinMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/nnparcs/src/NN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/parcs/parcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WtQLW9FCwUsQhqQjtAgeDebMMT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/labs/parcs/nnparcs/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mariam_Isoieva\IdeaProjects\text\labs\parcs\nnparcs\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mariam_Isoieva\IdeaProjects\text\labs\parcs\nnparcs\src" />
+      <recent name="C:\Users\Mariam_Isoieva\IdeaProjects\text\labs\parcs\nnparcs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea79f82-cb5d-40f1-9873-697f546a24c9" name="Default Changelist" comment="" />
+      <created>1579966355284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579966355284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/labs" />
+    </ignored-roots>
+  </component>
+</project>
